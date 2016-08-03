@@ -1,0 +1,19 @@
+when a user clicks the checkmark
+
+app tells api that this item should be marked as completed
+
+api marks the item as complete: true
+
+api sends confirmation to the app
+
+app changes the DOM element to appear completed
+
+when a user clicks the deletemark
+
+app tells api that this item should be marked as completed
+
+api marks the item update delete property
+
+api sends confirmation to the app
+
+app changes the DOM element to appear completed
